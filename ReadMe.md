@@ -1,7 +1,7 @@
 # Welcomer Bot infrastructure
 - Hello Users, We are giving you a free welcomer bot infrastructure.
  - infrastructure Features
-  - Welcomes the users who join the server with a picture.
+ - Welcomes the users who join the server with a picture.
   
  - installation steps
   - First you have to type **npm install**.
