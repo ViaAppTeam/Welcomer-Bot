@@ -4,6 +4,6 @@ module.exports = {
         id: "CLİENT-İD"
     },
     owners: [
-        "BOT-İD"
+        "OWNER-İD"
     ]
 }
