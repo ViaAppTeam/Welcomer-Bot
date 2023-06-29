@@ -9,7 +9,7 @@ module.exports.execute = async(client, interaction) => {
     
     if (interaction.options.getSubcommand() === `set`) {
 
-    const kanal2 = interaction.options.getChannel('kanal')
+    const kanal2 = interaction.options.getChannel('channel')
    db.set(`hgbb2_${interaction.guild.id}`, kanal2.id)
    const embed = new EmbedBuilder()
    .setDescription("> Picture Welcome Bye Bye Channel Set Up Successfully!")
