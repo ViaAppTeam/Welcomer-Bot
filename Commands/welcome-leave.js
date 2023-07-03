@@ -34,7 +34,13 @@ module.exports.config = {
             name:"set",
             description:"setting operations",
             type:1,
-            options:[{name:"channel",description:"Set to Join Leave channel.",type:7,required:true,channel_types:[0]}]            
+            options:[
+                {
+                    name:"channel",
+                    description:"Set to Join Leave channel.",
+                    type:7,
+                    required:true,
+                    channel_types:[0]}]            
         },
         {
             name:"reset",
