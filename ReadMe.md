@@ -6,8 +6,9 @@
   
 ## Dependencies:
 ```
- - npm i mongoose
- - npm i discord.js@14.3.0
+ - npm i canvafy
+ - npm i five.db
+ - npm i discord.js@14.9.0
 ```
 
 ## Instructions
