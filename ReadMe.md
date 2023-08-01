@@ -18,8 +18,6 @@
 
 ## 📚 Commands
 
-Click to View Commands
-
 | Name        | Description                              | Options                                   |
 |-------------|------------------------------------------|-------------------------------------------|
 | `ping`        | Shows the bot delay                    |                                           |
