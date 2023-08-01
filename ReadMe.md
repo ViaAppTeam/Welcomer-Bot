@@ -16,3 +16,15 @@
  > 2. In the second step, enter your bot's information in the `config.js` file, enter your bot's Token in `BOT-TOKEN`, your bot's ID in `CLIENT-ID` and your own ID in `OWNER-ID`. 
  > 3. And as the last step, you can start the bot by typing `node index.js` in the console.
 
+## 📚 Commands
+
+<details><summary>Click to View Commands</summary>
+
+| Name        | Description                              |
+|-------------|------------------------------------------|
+| `ping`        | Shows the bot delay                     |
+| `welcomer set`    | Setup welcomer system                     |
+| `welcomer reset`    | Reset welcomer system                     |
+
+
+</details>
