@@ -18,13 +18,10 @@
 
 ## 📚 Commands
 
-<details><summary>Click to View Commands</summary>
+Click to View Commands
 
-| Name        | Description                              |
-|-------------|------------------------------------------|
-| `ping`        | Shows the bot delay                     |
-| `welcomer set`    | Setup welcomer system                     |
-| `welcomer reset`    | Reset welcomer system                     |
-
-
-</details>
+| Name        | Description                              | Options                                   |
+|-------------|------------------------------------------|-------------------------------------------|
+| `ping`        | Shows the bot delay                    |                                           |
+| `join-leave set`    | Setup welcomer system            | `channel`: Select an channel              |
+| `join-leave reset`    | Reset welcomer system          |                                           |
